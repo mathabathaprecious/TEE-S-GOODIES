@@ -1,6 +1,6 @@
 #myfooter {
-    background-color: #FFB6C1;
-    color: white;
+    background-color: transparent;
+    color: black;
     padding: 10px;
     text-align: left;
  }
@@ -10,7 +10,7 @@ body {
   
   .navbar {
     overflow: hidden;
-     background-color: #FFB6C1;
+     background-color: orchid;
   }
   
   .navbar a {
@@ -68,7 +68,7 @@ body {
     display: block;
   }
   body {
-   background-color:#FFE4E1;
+   background-image:url(images/background.jpg)
   }
   body {font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box;}
@@ -147,4 +147,10 @@ input[type=submit]:hover {
     content: "";
     display: table;
     clear: both;
+  }
+  .h1 {
+    color: orchid;
+  }
+  .p1 {
+    color: white;
   }
